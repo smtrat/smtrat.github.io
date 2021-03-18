@@ -1,0 +1,7 @@
+var a04576 =
+[
+    [ "rewrite_iff", "d8/d2e/a04576.html#a8a3e51dde66d4f29d1f7222b0b09f9a1", null ],
+    [ "rewrite_implication", "d8/d2e/a04576.html#a34019bb1a28b80aff9c797556841127b", null ],
+    [ "rewrite_ite", "d8/d2e/a04576.html#ab9aca619d4e48a1d75db2b9e6bc597f8", null ],
+    [ "rewrite_xor", "d8/d2e/a04576.html#aaa45714dfe641012b552e3f57a6fc096", null ]
+];

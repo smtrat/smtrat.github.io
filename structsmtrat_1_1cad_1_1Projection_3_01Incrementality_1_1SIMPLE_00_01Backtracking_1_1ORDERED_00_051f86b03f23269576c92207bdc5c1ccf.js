@@ -1,0 +1,4 @@
+var structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1SIMPLE_00_01Backtracking_1_1ORDERED_00_051f86b03f23269576c92207bdc5c1ccf =
+[
+    [ "operator()", "structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1SIMPLE_00_01Backtracking_1_1ORDERED_00_051f86b03f23269576c92207bdc5c1ccf.html#a5c75da483570e3f29eee4492dc4ddbca", null ]
+];

@@ -1,0 +1,30 @@
+digraph "smtrat::parser::SpecConstantParser"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{smtrat::parser::SpecConstant\lParser\n|+ theoryConst\l+ main\l|+ SpecConstantParser()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node2 [label="{boost::spirit::qi::\lgrammar\< Iterator, types\l::ConstType(), Skipper \>\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +binary" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node3 [label="{smtrat::parser::BinaryParser\n|+ number\l+ main\l+ main2\l|+ BinaryParser()\l+ build()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structsmtrat_1_1parser_1_1BinaryParser.html",tooltip="Parses binaries: #b[01]+ "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node4 [label="{boost::spirit::qi::\lgrammar\< Iterator, FixedWidth\lConstant\< Integer \>(), Skipper \>\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +numeral" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node5 [label="{smtrat::parser::NumeralParser\n||}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structsmtrat_1_1parser_1_1NumeralParser.html",tooltip="Parses numerals: (0 | [1-9][0-9]*) "];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node6 [label="{qi::uint_parser\< Integer,\l 10, 1,-1 \>\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node7 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +hexadecimal" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node7 [label="{smtrat::parser::Hexadecimal\lParser\n|+ number\l+ main\l+ main2\l|+ HexadecimalParser()\l+ build()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structsmtrat_1_1parser_1_1HexadecimalParser.html",tooltip="Parses hexadecimals: #x[0-9a-fA-F]+ "];
+  Node4 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node8 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +decimal" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 [label="{smtrat::parser::DecimalParser\n||}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structsmtrat_1_1parser_1_1DecimalParser.html",tooltip="Parses decimals: numeral.0*numeral "];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node9 [label="{qi::real_parser\< Rational,\l RationalPolicies \>\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node10 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node10 [label="{boost::spirit::qi::\lreal_parser\< Rational,\l RationalPolicies \>\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node11 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +string" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node11 [label="{smtrat::parser::StringParser\n|+ escapes\l+ main\l|+ StringParser()\l+ StringParser()\l}",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structsmtrat_1_1parser_1_1StringParser.html",tooltip="Parses strings: \".+\" with escape sequences \\" and \\ "];
+  Node12 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node12 [label="{boost::spirit::qi::\lgrammar\< Iterator, std\l::string(), Skipper \>\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node12 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+}

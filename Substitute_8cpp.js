@@ -1,0 +1,26 @@
+var Substitute_8cpp =
+[
+    [ "getEvenBitStrings", "Substitute_8cpp.html#a0994cf471e15416f51a8656841db4d1d", null ],
+    [ "getOddBitStrings", "Substitute_8cpp.html#acac1d52e51b67f83c96d71c18db8c07b", null ],
+    [ "getSignCombinations", "Substitute_8cpp.html#aa6bdc76fe27a70df563bb6793ccd444c", null ],
+    [ "print", "Substitute_8cpp.html#afef02e227ae9df69587ce3b47a4a81bd", null ],
+    [ "simplify", "Substitute_8cpp.html#a7a3c44f8d261e9c544b180e0fef5d29b", null ],
+    [ "simplify", "Substitute_8cpp.html#a5d21199948de45b8ef733a673561b4da", null ],
+    [ "splitProducts", "Substitute_8cpp.html#aa20ac29d5b484b38c9d0c2d94426d1ca", null ],
+    [ "splitProducts", "Substitute_8cpp.html#a07b0098046c9374392f67cfd1b9e760e", null ],
+    [ "splitProducts", "Substitute_8cpp.html#a80f33190a11b385ec78169e4c294c11d", null ],
+    [ "splitSosDecompositions", "Substitute_8cpp.html#a22ac19aa710b572f324ac56113b1e940", null ],
+    [ "substitute", "Substitute_8cpp.html#a07215aa6a5d0a8e28bc4654073768463", null ],
+    [ "substituteEpsGradients", "Substitute_8cpp.html#a112645b7cf0b4fd8b5d17b2ca2fbc764", null ],
+    [ "substituteInf", "Substitute_8cpp.html#a5bca7434ef23c7795783551ff55d191f", null ],
+    [ "substituteInfLessGreater", "Substitute_8cpp.html#a683ecdc2eb2faced87d55ab802ce9069", null ],
+    [ "substituteNormal", "Substitute_8cpp.html#aa812ca9ab60c937e5b651521a21f6ae9", null ],
+    [ "substituteNormalSqrtEq", "Substitute_8cpp.html#a87b07f224a335783c0f8319ba7c82087", null ],
+    [ "substituteNormalSqrtLeq", "Substitute_8cpp.html#a734238c8b76e6fd52452910929aa441e", null ],
+    [ "substituteNormalSqrtLess", "Substitute_8cpp.html#aa0daea2018d1934f120cc9283b4644ae", null ],
+    [ "substituteNormalSqrtNeq", "Substitute_8cpp.html#a98b717f38efa9d28d57ec33eace657a9", null ],
+    [ "substituteNotTrivialCase", "Substitute_8cpp.html#a6a195d8e4b9143cae2b6a2d91110dd72", null ],
+    [ "substitutePlusEps", "Substitute_8cpp.html#a13e404f2dafa96cb4b206090c1cbc30b", null ],
+    [ "substituteTrivialCase", "Substitute_8cpp.html#a69e58aa1b60679e5e3d85e38ca974140", null ],
+    [ "MAX_NUM_OF_TERMS", "Substitute_8cpp.html#a63166f40dac40fbf5abdaeeddcef4a47", null ]
+];

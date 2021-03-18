@@ -1,0 +1,25 @@
+var RedAns_8c =
+[
+    [ "COLORTAB", "RedAns_8c.html#a6a9f696fa555c3008130cf8d826ac619", null ],
+    [ "EOT", "RedAns_8c.html#aa3210a5256085e136fed7897ae93a756", null ],
+    [ "FINISHED", "RedAns_8c.html#a6a1e3fd193b6dd39939b3c436d1014ce", null ],
+    [ "ISCOLOR", "RedAns_8c.html#a30197a0564a717035779fba157bb35e9", null ],
+    [ "LF", "RedAns_8c.html#a350c9d6cb81908d59427ee96844d1a9c", null ],
+    [ "MODE", "RedAns_8c.html#ab8c52c1b4c021ed3e6b6b677bd2ac019", null ],
+    [ "POSTTEXT", "RedAns_8c.html#a3b5fc5cab5e971cfb77fc65984eb7e10", null ],
+    [ "PRETEXT", "RedAns_8c.html#a8b1930740854ba779ce221287d5b0e2f", null ],
+    [ "PROMPT", "RedAns_8c.html#accdbea14ea06c15e271784368bd993e8", null ],
+    [ "READBUFSIZE", "RedAns_8c.html#aa0534241791f23ec8098503582406166", null ],
+    [ "RESULT", "RedAns_8c.html#a62c939ffea0f34a0211837f4dbecee0a", null ],
+    [ "STATCOUNTER", "RedAns_8c.html#a49051b66560bc4419bf44db3ae10a8f0", null ],
+    [ "RedAns_cfprint", "RedAns_8c.html#a4e62c541f6f6b302740606a2e47e2b3d", null ],
+    [ "RedAns_delete", "RedAns_8c.html#ade77e56e2e32a7ae0b051efbb5754515", null ],
+    [ "RedAns_dfa", "RedAns_8c.html#ab401ecb9c5683a0941825c2bf7211125", null ],
+    [ "RedAns_dfaLog", "RedAns_8c.html#a97437a9bfab9a590ae948727dcd00e2a", null ],
+    [ "RedAns_loadInitFile", "RedAns_8c.html#a67c81e55960f03d1ad4c8df7ffce1ce4", null ],
+    [ "RedAns_new", "RedAns_8c.html#a2461a1f867a3ce8e8b5341c0294d4b45", null ],
+    [ "RedAns_readUntilPrompt", "RedAns_8c.html#a4059c80a2d1da15916757dddc05062b7", null ],
+    [ "RedAns_sendReduce", "RedAns_8c.html#a81625a532060ac7e84026fbe8720b820", null ],
+    [ "debugfile", "RedAns_8c.html#ae728b88f4032a02ee46e75ab479b927d", null ],
+    [ "logfile", "RedAns_8c.html#a9ec6c6119bde6b1f922de28aba2c59e7", null ]
+];

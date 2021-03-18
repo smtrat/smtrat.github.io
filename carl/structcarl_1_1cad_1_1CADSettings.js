@@ -1,0 +1,25 @@
+var structcarl_1_1cad_1_1CADSettings =
+[
+    [ "CADSettings", "structcarl_1_1cad_1_1CADSettings.html#ab772630b29450194f0c73aa7fec04fb6", null ],
+    [ "CADSettings", "structcarl_1_1cad_1_1CADSettings.html#ac812000bf2a42d90ac6e06294f7a2d1c", null ],
+    [ "getSettings", "structcarl_1_1cad_1_1CADSettings.html#ad321f11070967868ed9df5562cf7e151", null ],
+    [ "operator<<", "structcarl_1_1cad_1_1CADSettings.html#a8d8e93ca5641edbe437de01c34e90252", null ],
+    [ "autoSeparateEquations", "structcarl_1_1cad_1_1CADSettings.html#a90f1e1695d4a541d83c6d7f073732708", null ],
+    [ "computeConflictGraph", "structcarl_1_1cad_1_1CADSettings.html#a340ca0705ee355d4024239adfa4e9109", null ],
+    [ "earlyLiftingPruningByBounds", "structcarl_1_1cad_1_1CADSettings.html#a6365da27e3af4ddd8807da9193bed88f", null ],
+    [ "equationsOnly", "structcarl_1_1cad_1_1CADSettings.html#aa93cec735126fc3356ea4c8a3d07de85", null ],
+    [ "exploreInteger", "structcarl_1_1cad_1_1CADSettings.html#ae95efde27063a5bdd1ba9b33dcdab135", null ],
+    [ "ignoreRoots", "structcarl_1_1cad_1_1CADSettings.html#a9b52572ec6f50ab06d19f4fd6eb39448", null ],
+    [ "improveBounds", "structcarl_1_1cad_1_1CADSettings.html#ab3669bc8c47582abee4548375075b4f6", null ],
+    [ "inequalitiesOnly", "structcarl_1_1cad_1_1CADSettings.html#a8cbab21ae05983f1c7181b4847d03dee", null ],
+    [ "integerHandling", "structcarl_1_1cad_1_1CADSettings.html#a8875372f3db5376fa964f019b1126cbd", null ],
+    [ "order", "structcarl_1_1cad_1_1CADSettings.html#ac746f8da2dc803e8b9293e5f604d1d3e", null ],
+    [ "preSolveByBounds", "structcarl_1_1cad_1_1CADSettings.html#a361a2f24a65ffa188b3cb8e1f7840138", null ],
+    [ "removeConstants", "structcarl_1_1cad_1_1CADSettings.html#a42ab14487800611c9da63a4c4a14c39c", null ],
+    [ "sampleOrdering", "structcarl_1_1cad_1_1CADSettings.html#a41eebe4c22f5161a48e329919d949573", null ],
+    [ "simplifyByFactorization", "structcarl_1_1cad_1_1CADSettings.html#a5411babd5e0029894bacf480dd5b4456", null ],
+    [ "simplifyByRootcounting", "structcarl_1_1cad_1_1CADSettings.html#a241e6f7a9b5828d8df8ee2fef327a1c5", null ],
+    [ "simplifyEliminationByBounds", "structcarl_1_1cad_1_1CADSettings.html#a95f84f863b123aa3ecbd96995d28f259", null ],
+    [ "splitInteger", "structcarl_1_1cad_1_1CADSettings.html#a2c801efc733539400dddcd0b8497916f", null ],
+    [ "splittingStrategy", "structcarl_1_1cad_1_1CADSettings.html#a0bca581dc0418b2f30bcbc405cfa84c6", null ]
+];

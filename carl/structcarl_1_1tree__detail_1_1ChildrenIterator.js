@@ -1,0 +1,25 @@
+var structcarl_1_1tree__detail_1_1ChildrenIterator =
+[
+    [ "Base", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#aba747bbed11213c997ff045362569f4b", null ],
+    [ "ChildrenIterator", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a9b8c6fa5b58416b142bd868a2d55fd1a", null ],
+    [ "ChildrenIterator", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a8552d24920cbd56dbc8ac3c9cce8d65b", null ],
+    [ "ChildrenIterator", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a6253dc103cb312b948741180fc0e09a1", null ],
+    [ "ChildrenIterator", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a284d0166c8bd3efbc9c5194687ae587c", null ],
+    [ "~ChildrenIterator", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#ae152f2ea003c4f521f03c9b995cb1dee", null ],
+    [ "curnode", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a1ab20a044467d8e1f6f54675d710dc11", null ],
+    [ "depth", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#ab25da8ff011c93a88c70d62267e75c84", null ],
+    [ "id", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a0e6b239ee7d549cc979df95dbc69b93b", null ],
+    [ "isRoot", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a237c70d8970f9d91f2d3d0e2455e24b6", null ],
+    [ "isValid", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#af8b2eebb5305c40aebbe3d364194f9df", null ],
+    [ "next", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#aae0574194a06ffd96337ec0e4f362d4d", null ],
+    [ "node", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a892bf7c19e089d38e6132c88289ae064", null ],
+    [ "nodes", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a98d8c83399d900f1027cdae2282ed1f0", null ],
+    [ "operator->", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#aea50d2b1c67edef30d654c594a09185e", null ],
+    [ "operator->", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#abb690db091730779c85525805053d773", null ],
+    [ "operator=", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a3d2df5f8f4a4f13dbeb744b522064e89", null ],
+    [ "operator=", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#adcc7af494ab5eed5b862e213c10486d0", null ],
+    [ "previous", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a122cab57216e4577a78d36758cd41a69", null ],
+    [ "current", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a00b6e7bfdd972bba979b13f3a27e8f0c", null ],
+    [ "mTree", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a3a5d764c18bd834b5f1385f6c5b27d81", null ],
+    [ "parent", "structcarl_1_1tree__detail_1_1ChildrenIterator.html#a0af666457f952f189a2e2aebc667d5e2", null ]
+];

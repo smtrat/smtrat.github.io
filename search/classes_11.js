@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['randomizationadaptor_7122',['RandomizationAdaptor',['../db/d34/classbenchmax_1_1RandomizationAdaptor.html',1,'benchmax']]],
+  ['raticp_7123',['RatICP',['../d7/de7/classsmtrat_1_1RatICP.html',1,'smtrat']]],
+  ['raticpvs_7124',['RatICPVS',['../d7/d48/classsmtrat_1_1RatICPVS.html',1,'smtrat']]],
+  ['ratintblast_7125',['RatIntBlast',['../d6/d49/classsmtrat_1_1RatIntBlast.html',1,'smtrat']]],
+  ['rationalcapsule_7126',['RationalCapsule',['../d3/d5d/classsmtrat_1_1RationalCapsule.html',1,'smtrat']]],
+  ['rationalpolicies_7127',['RationalPolicies',['../d5/d81/structsmtrat_1_1parser_1_1RationalPolicies.html',1,'smtrat::parser']]],
+  ['ratvsonlyvb_7128',['RatVSOnlyVB',['../d0/dd5/classsmtrat_1_1RatVSOnlyVB.html',1,'smtrat']]],
+  ['ratvsplain_7129',['RatVSPlain',['../da/d66/classsmtrat_1_1RatVSPlain.html',1,'smtrat']]],
+  ['rebind_7130',['rebind',['../d9/dac/structsmtrat_1_1fixedsize__allocator_1_1rebind.html',1,'smtrat::fixedsize_allocator']]],
+  ['reducedb_5flt_7131',['reduceDB_lt',['../d1/dbf/structsmtrat_1_1reduceDB__lt.html',1,'smtrat']]],
+  ['reducta_7132',['Reducta',['../d8/d94/structsmtrat_1_1cad_1_1projection_1_1Reducta.html',1,'smtrat::cad::projection']]],
+  ['regionallocator_7133',['RegionAllocator',['../da/d2d/classMinisat_1_1RegionAllocator.html',1,'Minisat']]],
+  ['regionallocator_3c_20uint32_5ft_20_3e_7134',['RegionAllocator&lt; uint32_t &gt;',['../da/d2d/classMinisat_1_1RegionAllocator.html',1,'Minisat']]],
+  ['remove_5fxor_5ffirst_5farg_7135',['remove_xor_first_arg',['../da/d7f/structsmtrat_1_1NNFRewriter_1_1remove__xor__first__arg.html',1,'smtrat::NNFRewriter']]],
+  ['replacevariablesrewriter_7136',['ReplaceVariablesRewriter',['../df/da9/structsmtrat_1_1ReplaceVariablesRewriter.html',1,'smtrat']]],
+  ['result_7137',['result',['../d4/d70/structsmtrat_1_1parser_1_1ErrorHandler_1_1result.html',1,'smtrat::parser::ErrorHandler::result&lt; typename &gt;'],['../d2/de5/structdelta_1_1ErrorHandler_1_1result.html',1,'delta::ErrorHandler::result&lt; typename &gt;']]],
+  ['resultantrule_7138',['ResultantRule',['../dd/d7f/classsmtrat_1_1cad_1_1preprocessor_1_1ResultantRule.html',1,'smtrat::cad::preprocessor']]],
+  ['results_7139',['Results',['../dd/d8d/classbenchmax_1_1Results.html',1,'benchmax']]],
+  ['rnsencoder_7140',['RNSEncoder',['../dd/d7e/classsmtrat_1_1RNSEncoder.html',1,'smtrat']]],
+  ['root_5findexer_7141',['root_indexer',['../d0/dde/classsmtrat_1_1mcsat_1_1onecellcad_1_1firstlevel_1_1root__indexer.html',1,'smtrat::mcsat::onecellcad::firstlevel']]],
+  ['root_5fwell_5fdef_7142',['root_well_def',['../da/d66/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1root__well__def.html',1,'smtrat::cadcells::operators::properties']]],
+  ['rootindexer_7143',['RootIndexer',['../d2/dfb/classsmtrat_1_1mcsat_1_1arithmetic_1_1RootIndexer.html',1,'smtrat::mcsat::arithmetic']]],
+  ['runtimesettings_7144',['RuntimeSettings',['../d6/de1/classsmtrat_1_1RuntimeSettings.html',1,'smtrat']]]
+];

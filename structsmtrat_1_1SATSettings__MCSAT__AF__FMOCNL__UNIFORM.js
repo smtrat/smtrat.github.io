@@ -1,0 +1,28 @@
+var structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM =
+[
+    [ "MCSATSettings", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a9b038850d8398af69097ec407a217e7d", null ],
+    [ "VarScheduler", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a4a7a6d7ac9f9b3314140d0e2ed3bd574", null ],
+    [ "allow_theory_propagation", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a347ab8de33d06a08aeb8dc84082a1561", null ],
+    [ "check_active_literal_occurrences", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#accd2e3098f2b10980cb60b5711a78041", null ],
+    [ "check_for_duplicate_clauses", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a107691ecf6ced1045f634d1109de66b2", null ],
+    [ "check_if_all_clauses_are_satisfied", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a5a39020a6ae563cd711a4b86b10780b7", null ],
+    [ "conflict_clause_evaluation_strategy", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a6457b7ad3d522e14f30f6481d8dbdf7a", null ],
+    [ "formula_guided_decision_heuristic", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#adf1ab0a81ccc22e4a27c39e749770842", null ],
+    [ "initial_variable_activities", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a194f4c160cde2c4cb307e807fa093101", null ],
+    [ "initiate_activities", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a2b52c54a7968777aea2fed46a683a658", null ],
+    [ "mc_sat", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#ada3d21ab99a0fd9b2d1215124c7ebb78", null ],
+    [ "mcsat_backjump_decide", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a1a3c190019e79dbe457f71894f62da36", null ],
+    [ "mcsat_boolean_domain_propagation", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#accaca375b509db7558faae2b7d9a66c0", null ],
+    [ "mcsat_learn_lazy_explanations", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a5478b350088c08595c86141f0c21e134", null ],
+    [ "mcsat_num_insert_assignments", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a00b6dce8a0d8293256edd30f367712a5", null ],
+    [ "mcsat_resolve_clause_chains", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a5b4ca360d19ab9c94852deee9a23ac6e", null ],
+    [ "moduleName", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a3a37c3a468ab7bc5bfea6f3b8d04235c", null ],
+    [ "percentage_of_conflicts_to_add", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a9c2c3bb1941b0b647c4f6b656590b8ec", null ],
+    [ "remove_satisfied", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a2ec55da6923f0f18c5f380e0c0374521", null ],
+    [ "stop_search_after_first_unknown", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a2ac8731384fb5fc513c7de62f30d034e", null ],
+    [ "theory_conflict_guided_decision_heuristic", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a10ea325ec83128ddb9b18ff26cafcb29", null ],
+    [ "try_full_lazy_call_first", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#ae70222bd38e34cf9c5684e830935b637", null ],
+    [ "use_new_var_scheduler", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a8390082e3ccd56025de8d46c164e9324", null ],
+    [ "use_restarts", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a1f05539d9cdbc260e7e364ca1312b1be", null ],
+    [ "validate_clauses", "structsmtrat_1_1SATSettings__MCSAT__AF__FMOCNL__UNIFORM.html#a0ffbff6ae632249bb656fc28b87c026f", null ]
+];

@@ -1,0 +1,28 @@
+var namespaceMinisat =
+[
+    [ "RegionAllocator", "classMinisat_1_1RegionAllocator.html", "classMinisat_1_1RegionAllocator" ],
+    [ "Heap", "classMinisat_1_1Heap.html", "classMinisat_1_1Heap" ],
+    [ "Hash", "structMinisat_1_1Hash.html", "structMinisat_1_1Hash" ],
+    [ "Equal", "structMinisat_1_1Equal.html", "structMinisat_1_1Equal" ],
+    [ "DeepHash", "structMinisat_1_1DeepHash.html", "structMinisat_1_1DeepHash" ],
+    [ "DeepEqual", "structMinisat_1_1DeepEqual.html", "structMinisat_1_1DeepEqual" ],
+    [ "Map", "classMinisat_1_1Map.html", "classMinisat_1_1Map" ],
+    [ "Option", "classMinisat_1_1Option.html", "classMinisat_1_1Option" ],
+    [ "IntRange", "structMinisat_1_1IntRange.html", "structMinisat_1_1IntRange" ],
+    [ "Int64Range", "structMinisat_1_1Int64Range.html", "structMinisat_1_1Int64Range" ],
+    [ "DoubleRange", "structMinisat_1_1DoubleRange.html", "structMinisat_1_1DoubleRange" ],
+    [ "DoubleOption", "classMinisat_1_1DoubleOption.html", "classMinisat_1_1DoubleOption" ],
+    [ "IntOption", "classMinisat_1_1IntOption.html", "classMinisat_1_1IntOption" ],
+    [ "StringOption", "classMinisat_1_1StringOption.html", "classMinisat_1_1StringOption" ],
+    [ "BoolOption", "classMinisat_1_1BoolOption.html", "classMinisat_1_1BoolOption" ],
+    [ "Queue", "classMinisat_1_1Queue.html", "classMinisat_1_1Queue" ],
+    [ "Lit", "structMinisat_1_1Lit.html", "structMinisat_1_1Lit" ],
+    [ "lbool", "classMinisat_1_1lbool.html", "classMinisat_1_1lbool" ],
+    [ "Clause", "classMinisat_1_1Clause.html", "classMinisat_1_1Clause" ],
+    [ "ClauseAllocator", "classMinisat_1_1ClauseAllocator.html", "classMinisat_1_1ClauseAllocator" ],
+    [ "OccLists", "classMinisat_1_1OccLists.html", "classMinisat_1_1OccLists" ],
+    [ "CMap", "classMinisat_1_1CMap.html", "classMinisat_1_1CMap" ],
+    [ "LessThan_default", "structMinisat_1_1LessThan__default.html", "structMinisat_1_1LessThan__default" ],
+    [ "vec", "classMinisat_1_1vec.html", "classMinisat_1_1vec" ],
+    [ "OutOfMemoryException", "classMinisat_1_1OutOfMemoryException.html", null ]
+];

@@ -1,0 +1,25 @@
+var datastructures_2eq_2alloc_8h =
+[
+    [ "freelist", "classsmtrat_1_1freelist.html", "classsmtrat_1_1freelist" ],
+    [ "fixedsize_freelist", "classsmtrat_1_1fixedsize__freelist.html", "classsmtrat_1_1fixedsize__freelist" ],
+    [ "fixedsize_allocator_impl", "classsmtrat_1_1impl_1_1fixedsize__allocator__impl.html", null ],
+    [ "fixedsize_freelists", "classsmtrat_1_1impl_1_1fixedsize__freelists.html", "classsmtrat_1_1impl_1_1fixedsize__freelists" ],
+    [ "fixedsize_freelists< SizeCurrent, SizeMax, true >", "classsmtrat_1_1impl_1_1fixedsize__freelists_3_01SizeCurrent_00_01SizeMax_00_01true_01_4.html", "classsmtrat_1_1impl_1_1fixedsize__freelists_3_01SizeCurrent_00_01SizeMax_00_01true_01_4" ],
+    [ "fixedsize_allocator_freelists", "classsmtrat_1_1impl_1_1fixedsize__allocator__freelists.html", "classsmtrat_1_1impl_1_1fixedsize__allocator__freelists" ],
+    [ "fixedsize_allocator_impl< T, SizeShift, true, true >", "classsmtrat_1_1impl_1_1fixedsize__allocator__impl_3_01T_00_01SizeShift_00_01true_00_01true_01_4.html", "classsmtrat_1_1impl_1_1fixedsize__allocator__impl_3_01T_00_01SizeShift_00_01true_00_01true_01_4" ],
+    [ "fixedsize_allocator_size_helper", "classsmtrat_1_1impl_1_1fixedsize__allocator__size__helper.html", null ],
+    [ "fixedsize_allocator", "classsmtrat_1_1fixedsize__allocator.html", "classsmtrat_1_1fixedsize__allocator" ],
+    [ "rebind", "structsmtrat_1_1fixedsize__allocator_1_1rebind.html", "structsmtrat_1_1fixedsize__allocator_1_1rebind" ],
+    [ "fixedsize_allocator< void >", "classsmtrat_1_1fixedsize__allocator_3_01void_01_4.html", "classsmtrat_1_1fixedsize__allocator_3_01void_01_4" ],
+    [ "dynarray", "classsmtrat_1_1dynarray.html", "classsmtrat_1_1dynarray" ],
+    [ "dynarray_allocator", "classsmtrat_1_1dynarray__allocator.html", "classsmtrat_1_1dynarray__allocator" ],
+    [ "dynarray_stub", "structsmtrat_1_1dynarray__allocator_1_1dynarray__stub.html", "structsmtrat_1_1dynarray__allocator_1_1dynarray__stub" ],
+    [ "dynarray", "classsmtrat_1_1dynarray.html", "classsmtrat_1_1dynarray" ],
+    [ "count_leading_zeros", "datastructures_2eq_2alloc_8h.html#a386f318ccf984a3a1dd35b00237b303a", null ],
+    [ "count_leading_zeros< unsigned int >", "datastructures_2eq_2alloc_8h.html#ad0031adb8df1d11e3fb6ed14a2094a58", null ],
+    [ "count_leading_zeros< unsigned long >", "datastructures_2eq_2alloc_8h.html#ab3df0e380a28d312801a178b0d2caeef", null ],
+    [ "count_leading_zeros< unsigned long long >", "datastructures_2eq_2alloc_8h.html#a141fc08cea5a1d73ff78e6b528110a10", null ],
+    [ "roundup_log2", "datastructures_2eq_2alloc_8h.html#ac6f4a42e963a5294d02e24fffdf8cf9b", null ],
+    [ "LOWER_SIZE_BOUND", "datastructures_2eq_2alloc_8h.html#af2d62b9e151d01e9adaa07c872d872d7", null ],
+    [ "UPPER_SIZE_BOUND", "datastructures_2eq_2alloc_8h.html#a26d1e6f1dac7439b87af603a44c0679f", null ]
+];

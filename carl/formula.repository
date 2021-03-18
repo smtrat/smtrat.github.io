@@ -1,0 +1,45 @@
+\form#0:$-\infty$
+\form#1:$p$
+\form#2:$p: X \rightarrow Y$
+\form#3:$Y$
+\form#4:$y < 0 \forall y \in Y$
+\form#5:$y \leq 0 \forall y \in Y$
+\form#6:$y \geq 0 \forall y \in Y$
+\form#7:$y > 0 \forall y \in Y$
+\form#8:$g = s \cdot a + t \cdot b$
+\form#9:$Q(x) = x^q*P(1/x)$
+\form#10:$P(1/a) = 0 \rightarrow Q(a) = 0$
+\form#11:$ (\forall a > 0, Q(a) = 0. a <= b) \rightarrow (\forall a > 0, P(a) = 0. 1/b <= a) $
+\form#12:$ \\prod_i x_i^{e_i}$
+\form#13:$e_i \neq 0 $
+\form#14:$ \\prod_i x_i^1 $
+\form#15:$ x \rightarrow factor * x $
+\form#16:$ x \rightarrow x + a $
+\form#17:$ this[<substitutions>] $
+\form#18:$n$
+\form#19:$n < 0$
+\form#20:$n = 0$
+\form#21:$n > 0$
+\form#22:$ c $
+\form#23:$ v $
+\form#24:$ m $
+\form#25:$ c \cdot m $
+\form#26:$ c \cdot v^e $
+\form#27:$ coeff \cdot mainVar^{degree} $
+\form#28:$ lcm(N) / gcd(D) $
+\form#29:$ q(x) = p(-x) $
+\form#30:$\sigma$
+\form#31:$\sigma(e.first) = e.second$
+\form#32:$|n|$
+\form#33:$\lfloor n \rfloor$
+\form#34:$\lceil n \rceil$
+\form#35:$n^e$
+\form#36:$x$
+\form#37:$a$
+\form#38:$(x,x)$
+\form#39:$(x,y)$
+\form#40:$ x < \sqrt{a} < y $
+\form#41:$a \% b$
+\form#42:$ a / b $
+\form#43:$+,-,\cdot,/$
+\form#44:$+, -, \cdot$

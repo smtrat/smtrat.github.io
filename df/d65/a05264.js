@@ -1,0 +1,26 @@
+var a05264 =
+[
+    [ "backtracking", "df/d65/a05264.html#aae9c162a822c4f66ff0e31a7f2e27794", null ],
+    [ "coreHeuristic", "df/d65/a05264.html#a396e359c99e421cf4bd2ed906fb9fb0d", null ],
+    [ "debugProjection", "df/d65/a05264.html#a949248da85dab11b73a096820c696885", null ],
+    [ "debugStepsToTikz", "df/d65/a05264.html#aea1f5cbd2fb5b53e331ee787a7122a04", null ],
+    [ "deletePolynomials", "df/d65/a05264.html#afd2e3da763528440ed610cb765ce9f0b", null ],
+    [ "force_nonincremental", "df/d65/a05264.html#abf0bc7ca31ed9d3682b6a03eabb03b4c", null ],
+    [ "fullSampleComparator", "df/d65/a05264.html#a0cb9c3b7c489ffb927880d882b0f8bb6", null ],
+    [ "incrementality", "df/d65/a05264.html#a9a2e6b324eb6e07a769d1a1462b3b540", null ],
+    [ "interruptions", "df/d65/a05264.html#a2fef5df79c43aed805fdfde37244e4d6", null ],
+    [ "misHeuristic", "df/d65/a05264.html#af34eda4bfdbd8ec2c094bb521d8f8cc9", null ],
+    [ "moduleName", "df/d65/a05264.html#a2ddb0c553b083486f917299aae5adefa", null ],
+    [ "pp_disable_resultants", "df/d65/a05264.html#a180c4448596ab6a354c9d29b8ca9e486", null ],
+    [ "pp_disable_variable_elimination", "df/d65/a05264.html#a67ebf94d573cfbeb983dc5847dca30b9", null ],
+    [ "projectionComparator", "df/d65/a05264.html#a86ebe3c06918a89040bb8c8e9a718a23", null ],
+    [ "projectionOperator", "df/d65/a05264.html#a22b9d3f36224d1408804480120f2d7a4", null ],
+    [ "restrictedIfPossible", "df/d65/a05264.html#ae7adc67ab496358c7a388ad8f306a1bd", null ],
+    [ "restrictProjectionByEC", "df/d65/a05264.html#a0dcf65cce1ed13d9c9f5d31322d55d6a", null ],
+    [ "sampleComparator", "df/d65/a05264.html#a4084d885addc115c9aab15c25ddd7abf", null ],
+    [ "sampleHeuristic", "df/d65/a05264.html#a6f99ccbbb118fe790fa53dfee03d7963", null ],
+    [ "semiRestrictedProjection", "df/d65/a05264.html#a5d4082f52e60d5545efd3a2c29695490", null ],
+    [ "simplifyProjectionByBounds", "df/d65/a05264.html#ae3092284418cf0201db537127a4941c4", null ],
+    [ "split_for_integers", "df/d65/a05264.html#afee69177864983e40892f3acb1d16661", null ],
+    [ "trivialSampleRadius", "df/d65/a05264.html#ae426dd61337e591c26d65a809272ddd3", null ]
+];

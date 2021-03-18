@@ -1,0 +1,150 @@
+\form#0:$>=$
+\form#1:$m$
+\form#2:$C_{rcv}(m)$
+\form#3:$\varphi$
+\form#4:$C_{inf}(m)\subseteq C_{rcv}(m)$
+\form#5:$C_{pas}(m)$
+\form#6:$T:=(V, E)$
+\form#7:$V$
+\form#8:$E\subseteq V\times \Omega\times\Sigma\times V$
+\form#9:$\Omega$
+\form#10:$\Sigma$
+\form#11:$\Sigma=\{1,\ \ldots,\ |E|\}$
+\form#12:$C_{input}$
+\form#13:$m_r$
+\form#14:$C_{rcv}(m_r) = C_{input}$
+\form#15:$m\in V$
+\form#16:$(\sigma, m, m')$
+\form#17:$Q$
+\form#18:$(m, \omega, \sigma, m')\in E$
+\form#19:$\omega$
+\form#20:$p$
+\form#21:$m'$
+\form#22:$C_{rcv}(m') = C_{pas}(m)$
+\form#23:$\varphi \in C_{pas}(m)$
+\form#24:$R_1,\ldots, R_n \subseteq C_{rcv}(m)$
+\form#25:$R_i$
+\form#26:$C_{pas}(SATModule)$
+\form#27:\[c_0:x\leq0,\ c_1:x\geq 0,\ c_2:x=0\]
+\form#28:$c_0$
+\form#29:$c_1$
+\form#30:$c_2$
+\form#31:$c_2:x=0$
+\form#32:\[c_2\ \mapsto\ (c_0 \land c_1,\ c_2).\]
+\form#33:\[ \begin{array}{rccccccccccccc} p &\quad ::=\quad & a & | & b & | & x & | & (p + p) & | & (p \cdot p) & | & (p^e) \\ v &\quad ::=\quad & u & | & x \\ s &\quad ::=\quad & f(v,\ldots,v) & | & u & | & x \\ e &\quad ::=\quad & s = s \\ c &\quad ::=\quad & p = 0 & | & p < 0 & | & p \leq 0 & | & p > 0 & | & p \geq 0 & | & p \neq 0 \\ \varphi &\quad ::=\quad & c & | & (\neg \varphi) & | & (\varphi\land\varphi) & | & (\varphi\lor\varphi) & | & (\varphi\rightarrow\varphi) & | \\ && (\varphi\leftrightarrow\varphi) & | & (\varphi\oplus\varphi) \end{array} \]
+\form#34:$a$
+\form#35:$e$
+\form#36:$b$
+\form#37:$x$
+\form#38:$f$
+\form#39:$o(f)$
+\form#40:$u$
+\form#41:$c$
+\form#42:\[(\neg b\ \land\ x^2-y<0\ \land\ 4x+y-8y^7=0 )\ \rightarrow\ (\neg(x^2-y<0)\ \lor\ b ),\]
+\form#43:$y$
+\form#44:\[v = f(u,u)\ \oplus\ w \neq u\]
+\form#45:$v$
+\form#46:$w$
+\form#47:$S$
+\form#48:$T$
+\form#49:$T^{S\times S}$
+\form#50:$\land$
+\form#51:$\lor$
+\form#52:$n$
+\form#53:$\neg$
+\form#54:\[a_1\overbrace{x_{1,1}^{e_{1,1}}\cdot\ldots\cdot x_{1,k_1}^{e_{1,k_1}}}^{m_1}+\ldots+a_n\overbrace{x_{n,1}^{e_{n,1}}\cdot\ldots\cdot x_{n,k_n}^{e_{n,k_n}}}^{m_n}\ + \ d\ \sim \ 0\]
+\form#55:$n\geq0$
+\form#56:$i$
+\form#57:$a_i$
+\form#58:$\neq 0$
+\form#59:$d$
+\form#60:$x_{i,j_i}$
+\form#61:$e_{i,j_i}$
+\form#62:$1\leq i\leq n$
+\form#63:$1\leq j_i\leq k_i$
+\form#64:$x_{i,j_i}\neq x_{i,l_i}$
+\form#65:$j_i\neq l_i$
+\form#66:$1\leq j_i, l_i\leq k_i$
+\form#67:$m_{i_1}\neq m_{i_2}$
+\form#68:$i_1\neq i_2$
+\form#69:$1\leq i_1,i_2\leq n$
+\form#70:$0$
+\form#71:$\sim$
+\form#72:$=$
+\form#73:$<$
+\form#74:$a_1,\ldots,\ a_n,\ d$
+\form#75:$1$
+\form#76:\[\frac{a_1}{g}\cdot m_1\ +\ \ldots\ +\ \frac{a_n}{g}\cdot m_n\ + \ d'\ \sim' \ 0,\]
+\form#77:$g$
+\form#78:$a_1,\ldots,\ a_n$
+\form#79:\[\sim'=\left\{ \begin{array}{ll} \leq, &\text{ if }\sim\text{ is }< \\ \geq, &\text{ if }\sim\text{ is }> \\ \sim, &\text{ otherwise } \end{array} \right.\]
+\form#80:\[ d' = \left\{ \begin{array}{ll} \lceil\frac{d}{g}\rceil &\text{ if }\sim'\text{ is }\leq \\ \lfloor\frac{d}{g}\rfloor &\text{ if }\sim'\text{ is }\geq \\ \frac{d}{g} &\text{ otherwise } \end{array} \right.\]
+\form#81:$\frac{d}{g}$
+\form#82:$\sim'$
+\form#83:$0<0$
+\form#84:$\neq$
+\form#85:$0=0$
+\form#86:$x^3=0$
+\form#87:$x=0$
+\form#88:$x^2\leq 0$
+\form#89:$x^2=0$
+\form#90:$ \{ leading_coeff(p), discriminant(p) \} $
+\form#91:$ \bigcup_{B \in RED(p)} \{ ldcf(B) \} \cup PSC(B, B') $
+\form#92:$ \bigcup_{B_1 \in RED(p), B_2 \in RED(q)} PSC(B_1, B_2) $
+\form#93:$ \bigcup_{F \in RED(p)} PSC(F, q) $
+\form#94:$ \{ leading_coeff(p), trailing_coeff(p), discriminant(p) \} $
+\form#95:$ coefficients(p) \cup \{ discriminant(p) \} $
+\form#96:$ \{ resultant(p, q) \} $
+\form#97:$ e \land \varphi' $
+\form#98:$ e $
+\form#99:$ \varphi' $
+\form#100:$ x = t $
+\form#101:$ x $
+\form#102:$ t $
+\form#103:$ true $
+\form#104:$ x^i $
+\form#105:$ x \geq y + z $
+\form#106:$ y,z $
+\form#107:$ \neq $
+\form#108:$p \sim 0$
+\form#109:$\sim \in \{ =, \neq, \geq, >, \leq, < \}$
+\form#110:$q$
+\form#111:$p = q \cdot r$
+\form#112:$q(b)$
+\form#113:$q \cdot r \sim 0$
+\form#114:$q(b) > 0$
+\form#115:$q(b) \geq 0$
+\form#116:$q(b) = 0$
+\form#117:$q(b) < 0$
+\form#118:$q(b) \leq 0$
+\form#119:$p := r$
+\form#120:$f := q=0 \vee r=0$
+\form#121:$p := 0$
+\form#122:$f := q>0 \wedge r \neq 0$
+\form#123:$f := q<0 \wedge r \neq 0$
+\form#124:$\geq$
+\form#125:$f := q=0 \vee r \geq 0$
+\form#126:$c := r \leq 0$
+\form#127:$f := q=0 \vee r \leq 0$
+\form#128:$>$
+\form#129:$f := q>0 \wedge r>0$
+\form#130:$c := r<0$
+\form#131:$f := q<0 \wedge r<0$
+\form#132:$\leq$
+\form#133:$c := r \geq 0$
+\form#134:$f := q>0 \wedge r<0$
+\form#135:$c := r>0$
+\form#136:$f := q<0 \wedge r>0$
+\form#137:$p := p'$
+\form#138:$c := p' \sim 0$
+\form#139:$f := f'$
+\form#140:$p_i$
+\form#141:$p = \prod_{i=1}^k p_i$
+\form#142:$P_q$
+\form#143:$P_r$
+\form#144:$q = \prod_{t \in P_q} t$
+\form#145:$r = \prod_{t \in P_r}$
+\form#146:$\cdot$
+\form#147:$ \leq $
+\form#148:$ \geq $
+\form#149:$ = $

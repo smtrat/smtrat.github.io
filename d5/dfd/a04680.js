@@ -1,0 +1,25 @@
+var a04680 =
+[
+    [ "Groebner", "d5/dfd/a04680.html#a60c82d5c216e465c8976c4e996fd80ce", null ],
+    [ "MultivariateIdeal", "d5/dfd/a04680.html#aa765273c1c93fef91964a5592e155bcc", null ],
+    [ "Order", "d5/dfd/a04680.html#a2f24b79959bd006620263674cdf7f6f3", null ],
+    [ "passPolynomial", "d5/dfd/a04680.html#a5ed91421ce10e6b5b70e358350e21c9f", null ],
+    [ "PolynomialWithReasons", "d5/dfd/a04680.html#acfe55683e68bdb4aa3dbfefab6dd1cf4", null ],
+    [ "Reductor", "d5/dfd/a04680.html#afe9e6a0f33e787fa69ccd0a4b8e5513b", null ],
+    [ "addTheoryDeductions", "d5/dfd/a04680.html#afa537a30afbed85fdff556f40fe64ca3", null ],
+    [ "applyNSS", "d5/dfd/a04680.html#aace3c77a2ff54aeef437316df416617e", null ],
+    [ "checkInequalities", "d5/dfd/a04680.html#a6bcecfaf9f0493353795b9951fab181c", null ],
+    [ "getReasonsForInfeasibility", "d5/dfd/a04680.html#aaf6a1f79dd103cb2455fb89a82fdaf82", null ],
+    [ "identifier", "d5/dfd/a04680.html#a8917a95600bf29172cb292ae8dd97266", null ],
+    [ "iterativeVariableRewriting", "d5/dfd/a04680.html#ad3c6dacbf8c7e0db62050e6bcd653c11", null ],
+    [ "maxSDPdegree", "d5/dfd/a04680.html#a87b78922fbc77f3100a6c2b3786eab21", null ],
+    [ "maxSearchExponent", "d5/dfd/a04680.html#ae1b7c68e6990a9656cbe8e6adcb389f8", null ],
+    [ "moduleName", "d5/dfd/a04680.html#a61c2aa8d1c67dcd9ec72b22f1ebce476", null ],
+    [ "passGB", "d5/dfd/a04680.html#a67647393d66d3d5d41598f123ab89a98", null ],
+    [ "passInequalities", "d5/dfd/a04680.html#a2032fdbbae757c3babea269b89d0ede0", null ],
+    [ "passWithMinimalReasons", "d5/dfd/a04680.html#aaaac84326538f56ded946d78551216af", null ],
+    [ "SDPupperBoundNrVariables", "d5/dfd/a04680.html#ac85bebb8701d8a31580a476beb6966d4", null ],
+    [ "setCheckInequalitiesToBeginAfter", "d5/dfd/a04680.html#a35b39c36140d7c4f03397cce06d9d618", null ],
+    [ "transformIntoEqualities", "d5/dfd/a04680.html#a109d1b059e393c954f120952676fa47e", null ],
+    [ "withInfeasibleSubset", "d5/dfd/a04680.html#ad36d74f9b0a6795716701c090c1bf3a4", null ]
+];

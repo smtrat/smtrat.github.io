@@ -1,0 +1,9 @@
+var a09230 =
+[
+    [ "evaluate", "dd/d07/a09230.html#a0728f680545aacf86d0ed2d7c9906a4b", null ],
+    [ "get_non_root", "dd/d07/a09230.html#a2fd263f23fd4abcb26d854db456e0fb4", null ],
+    [ "get_root", "dd/d07/a09230.html#a9e2d5e4b9a2b5857d5a63fa84f9cc76b", null ],
+    [ "get_value_for_sgn", "dd/d07/a09230.html#a964cce8b73fd70f29874e4d637d03767", null ],
+    [ "sgn", "dd/d07/a09230.html#a82558e938ab4b05980c52a1e96865967", null ],
+    [ "sgn_of_invariant_poly", "dd/d07/a09230.html#a7c66c0920ae177e51f7c6185a14ce62d", null ]
+];

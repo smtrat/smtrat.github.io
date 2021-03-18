@@ -1,0 +1,35 @@
+var classbenchmax_1_1Stats =
+[
+    [ "Type", "classbenchmax_1_1Stats.html#a4482236c482b1d2a141c973fcd1ce19c", [
+      [ "STATS_COLLECTION", "classbenchmax_1_1Stats.html#a4482236c482b1d2a141c973fcd1ce19ca24a7024ca6444b552f5d89c51948abaa", null ],
+      [ "BENCHMARK_RESULT", "classbenchmax_1_1Stats.html#a4482236c482b1d2a141c973fcd1ce19ca6d805c4e8b057f3c2a3ee9eee0f35fca", null ]
+    ] ],
+    [ "Stats", "classbenchmax_1_1Stats.html#a04282c53718eb4e93a2654d8a830b510", null ],
+    [ "~Stats", "classbenchmax_1_1Stats.html#aba697ba89d1cb3b807b4e649efb2a82b", null ],
+    [ "addBenchmarkFile", "classbenchmax_1_1Stats.html#ab2b4731d74ac6de94f02ca70d148e189", null ],
+    [ "addBenchmarkSet", "classbenchmax_1_1Stats.html#a2e45ec61c9e5f878ac9325dfcc9f66b7", null ],
+    [ "addInputStat", "classbenchmax_1_1Stats.html#adea6e70329cd4f7e7a2ff1d81916c4ab", null ],
+    [ "addInputStat", "classbenchmax_1_1Stats.html#a12f5185fb4a325f22e058005a6ace903", null ],
+    [ "addResult", "classbenchmax_1_1Stats.html#a49d96f184f24fd9fee6c7a712d205f47", null ],
+    [ "addResult", "classbenchmax_1_1Stats.html#a8858b990220b188beec6b67465481c9b", null ],
+    [ "addRun", "classbenchmax_1_1Stats.html#aeb34dd2f9817fb449670c347f453faac", null ],
+    [ "addRunTimeStat", "classbenchmax_1_1Stats.html#acc9eea53433bd7788c7274e0abcd8639", null ],
+    [ "addSolver", "classbenchmax_1_1Stats.html#ac4a4af2fb10807c00eddc5181a9a0b39", null ],
+    [ "addStat", "classbenchmax_1_1Stats.html#a72f291b000599fc081ae89c0eb6b42f7", null ],
+    [ "callComposeProcessor", "classbenchmax_1_1Stats.html#a5d3ae7dc6929583cc1c7afc329eff3c9", null ],
+    [ "callComposeProcessor", "classbenchmax_1_1Stats.html#a10faa7629ef96d76c898d24010031fb8", null ],
+    [ "composeStats", "classbenchmax_1_1Stats.html#a69344d20b19fa5beaff633d16f035ca5", null ],
+    [ "createLatexCompose", "classbenchmax_1_1Stats.html#aad7614d060b619bbc17a036938eb03cb", null ],
+    [ "createStatsCompose", "classbenchmax_1_1Stats.html#a2921d1c02c050b1ef6382426b85cacbe", null ],
+    [ "fileName", "classbenchmax_1_1Stats.html#a5baaae0175ebb8b7119d325b9ca40e16", null ],
+    [ "type", "classbenchmax_1_1Stats.html#af85db52f4732511a48e1bb48226b54b6", null ],
+    [ "mCollectingBenchmarkFiles", "classbenchmax_1_1Stats.html#a9debea438380ba8733fd9f05d2321feb", null ],
+    [ "mCollectingBenchmarkSets", "classbenchmax_1_1Stats.html#a00ac8e8cecb6f6e1f2752b75f65851b3", null ],
+    [ "mCollectingInputStats", "classbenchmax_1_1Stats.html#a4c032dd9751141ccabcbf7be8ca31248", null ],
+    [ "mCollectingResults", "classbenchmax_1_1Stats.html#a72973b34e78e4983e01043e4f4e36481", null ],
+    [ "mCollectingRuns", "classbenchmax_1_1Stats.html#ad570f31235585d88603e17f37cb2410e", null ],
+    [ "mCollectingRunTimeStats", "classbenchmax_1_1Stats.html#a68f474fca5bb4bb8147612e644d813ac", null ],
+    [ "mCollectingSolvers", "classbenchmax_1_1Stats.html#a0741c7b5dd11bde4240c98151b47b82c", null ],
+    [ "mFile", "classbenchmax_1_1Stats.html#a6e21e0447f4de5f028a9b2ebbb96b5e6", null ],
+    [ "mType", "classbenchmax_1_1Stats.html#a7a1b5e2825ae2f447092073314efaa08", null ]
+];

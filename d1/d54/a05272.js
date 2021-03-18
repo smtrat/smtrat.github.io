@@ -1,0 +1,26 @@
+var a05272 =
+[
+    [ "backtracking", "d1/d54/a05272.html#aae9c162a822c4f66ff0e31a7f2e27794", null ],
+    [ "coreHeuristic", "d1/d54/a05272.html#a396e359c99e421cf4bd2ed906fb9fb0d", null ],
+    [ "debugProjection", "d1/d54/a05272.html#a949248da85dab11b73a096820c696885", null ],
+    [ "debugStepsToTikz", "d1/d54/a05272.html#aea1f5cbd2fb5b53e331ee787a7122a04", null ],
+    [ "deletePolynomials", "d1/d54/a05272.html#a03a77a0800d9572ad92c6a66edc52c7f", null ],
+    [ "force_nonincremental", "d1/d54/a05272.html#abf0bc7ca31ed9d3682b6a03eabb03b4c", null ],
+    [ "fullSampleComparator", "d1/d54/a05272.html#a0cb9c3b7c489ffb927880d882b0f8bb6", null ],
+    [ "incrementality", "d1/d54/a05272.html#a9a2e6b324eb6e07a769d1a1462b3b540", null ],
+    [ "interruptions", "d1/d54/a05272.html#a340495c30d0eb3a4f65068ab5619e54f", null ],
+    [ "misHeuristic", "d1/d54/a05272.html#af34eda4bfdbd8ec2c094bb521d8f8cc9", null ],
+    [ "moduleName", "d1/d54/a05272.html#a6b93a1ff526e3581ab4c4b0a2f639471", null ],
+    [ "pp_disable_resultants", "d1/d54/a05272.html#a180c4448596ab6a354c9d29b8ca9e486", null ],
+    [ "pp_disable_variable_elimination", "d1/d54/a05272.html#a67ebf94d573cfbeb983dc5847dca30b9", null ],
+    [ "projectionComparator", "d1/d54/a05272.html#a86ebe3c06918a89040bb8c8e9a718a23", null ],
+    [ "projectionOperator", "d1/d54/a05272.html#a22b9d3f36224d1408804480120f2d7a4", null ],
+    [ "restrictedIfPossible", "d1/d54/a05272.html#ae7adc67ab496358c7a388ad8f306a1bd", null ],
+    [ "restrictProjectionByEC", "d1/d54/a05272.html#ad13abab911580ccd691618b8b5d51945", null ],
+    [ "sampleComparator", "d1/d54/a05272.html#a4084d885addc115c9aab15c25ddd7abf", null ],
+    [ "sampleHeuristic", "d1/d54/a05272.html#a6f99ccbbb118fe790fa53dfee03d7963", null ],
+    [ "semiRestrictedProjection", "d1/d54/a05272.html#a1fa081f6176b92bab799155e5a4a3e33", null ],
+    [ "simplifyProjectionByBounds", "d1/d54/a05272.html#af158cf0a7b9450dd4d24c48bd20110f0", null ],
+    [ "split_for_integers", "d1/d54/a05272.html#afee69177864983e40892f3acb1d16661", null ],
+    [ "trivialSampleRadius", "d1/d54/a05272.html#a01ba03e1ae206b2d5dd03d6731fced92", null ]
+];

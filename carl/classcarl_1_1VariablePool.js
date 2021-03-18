@@ -1,0 +1,27 @@
+var classcarl_1_1VariablePool =
+[
+    [ "VariablePool", "classcarl_1_1VariablePool.html#aa574be87ddd9413e9de30af62ce535bd", null ],
+    [ "clear", "classcarl_1_1VariablePool.html#ac370bc810b22cb2c7c9469bb4d2a85eb", null ],
+    [ "findVariableWithName", "classcarl_1_1VariablePool.html#ab0387318dc80eb67430e11595061385f", null ],
+    [ "getFreshPersistentVariable", "classcarl_1_1VariablePool.html#a7490f012553a45dcbad1ffdce03289b3", null ],
+    [ "getFreshPersistentVariable", "classcarl_1_1VariablePool.html#a9959c211bd6fd886f68fcb2b1447e42f", null ],
+    [ "getFreshVariable", "classcarl_1_1VariablePool.html#a609d1de5e480fa4d03114bc814f68021", null ],
+    [ "getFreshVariable", "classcarl_1_1VariablePool.html#a8a14428411b74e4168c88a92680161e5", null ],
+    [ "getInstance", "classcarl_1_1VariablePool.html#a598d5f54bbaebce73cca8ba9d036639c", null ],
+    [ "getName", "classcarl_1_1VariablePool.html#ab6e6b30182d05eab8ba7a9305466917d", null ],
+    [ "nextID", "classcarl_1_1VariablePool.html#ab0f306fef67d765f146778b023dddc59", null ],
+    [ "nextID", "classcarl_1_1VariablePool.html#a8ffb8495a9d2a6e6e42ab9e7e88ef81b", null ],
+    [ "nrVariables", "classcarl_1_1VariablePool.html#a3cfec0e28b01367f31ced959e11820ed", null ],
+    [ "printVariableNamesToStream", "classcarl_1_1VariablePool.html#a13f019698359c23b80ecc174bea26cf0", null ],
+    [ "setName", "classcarl_1_1VariablePool.html#a10bb0c1f5e012fec89190135080db04a", null ],
+    [ "setPrefix", "classcarl_1_1VariablePool.html#a6ca3a5015a0408b763ff9d2ecf475f1b", null ],
+    [ "freshVariable", "classcarl_1_1VariablePool.html#a72070b4e7602de517307f35fb88ce2f0", null ],
+    [ "freshVariable", "classcarl_1_1VariablePool.html#a692fd90951acd1ec5133f542347a4dce", null ],
+    [ "freshVarMutex", "classcarl_1_1VariablePool.html#ab36391d57059cc5707ea166f694da097", null ],
+    [ "mNextIDs", "classcarl_1_1VariablePool.html#ad9b8c9f746a5dcc63a638c899fddc74d", null ],
+    [ "mPersistentVariables", "classcarl_1_1VariablePool.html#a34a2f0670a5a46285de2a5f47f5e2c2e", null ],
+    [ "mVariableNames", "classcarl_1_1VariablePool.html#ad7456ac6a60000a4b30e2fc8b3beb482", null ],
+    [ "mVariablePrefix", "classcarl_1_1VariablePool.html#abe94d45771909145c4298bbb112d659b", null ],
+    [ "setNameMutex", "classcarl_1_1VariablePool.html#ae13c19d9a4b3e8a937c0c6402145000e", null ],
+    [ "Singleton< VariablePool >", "classcarl_1_1VariablePool.html#a11a0d4d27c60f91d32e32c840ecf1135", null ]
+];

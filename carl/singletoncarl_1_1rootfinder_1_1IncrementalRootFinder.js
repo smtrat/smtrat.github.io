@@ -1,0 +1,28 @@
+var singletoncarl_1_1rootfinder_1_1IncrementalRootFinder =
+[
+    [ "QueueItem", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a32e05668a97ef6ddea52f642e63bae59", null ],
+    [ "IncrementalRootFinder", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a4a2a5f74365e97e65d089018e247d713", null ],
+    [ "~IncrementalRootFinder", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a0773c2f7661a70b3147ecb49467370ef", null ],
+    [ "addQueue", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a82021e5084342868c1b20ab14ec75dab", null ],
+    [ "addRoot", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a623fe7bccda437bbff0360158924104e", null ],
+    [ "addRoot", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a2786b3f29ab1fea7c890f071588826a1", null ],
+    [ "findRoots", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a1624233e66e9df0cfee222ce21fc1faf", null ],
+    [ "getAllRoots", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#ae5fd0578c7dba6ed73b2f42eaacda6c3", null ],
+    [ "getOriginalPolynomial", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a6968be4a5e4b70e312b78a84ed6931b1", null ],
+    [ "getPolynomial", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#ac9481f7c38cde43af5d10abad543749c", null ],
+    [ "isFinished", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a65a0aa2214765754f90498619d6fa797", null ],
+    [ "next", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a5aa916d0cda6f6705111e0919d3a8e05", null ],
+    [ "processQueueItem", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a6cf70255302d6a46ab941ba95d21788c", null ],
+    [ "setFinished", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#ad167a684f6fec0ecd966ff736a7c9f6d", null ],
+    [ "solveTrivial", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a57bf595a0aac6dd8356a67d522c27af7", null ],
+    [ "solveTrivialMaxDegree", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#accb2490e1653e61f2f1fffcf4e199bc8", null ],
+    [ "finished", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#affc14144c034f74675512bba61883ffe", null ],
+    [ "interval", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a0fae0a1342c9943d0a87fb787ebc4392", null ],
+    [ "nextRoot", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#ac2208fe41c3de8ef6df72f8d8639a961", null ],
+    [ "originalPolynomial", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#adb539fbeca65c482431a9dbd2770e676", null ],
+    [ "polynomial", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a4f4c06d8ba2a4081f6f26d86fd3f2ea1", null ],
+    [ "queue", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a8fe182bceb993bee80bf9df8f5040107", null ],
+    [ "roots", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a021b92a0c04c6b32fcda71d542066fc2", null ],
+    [ "splittingStrategy", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a4b81600312d20cd780697e216440b4cd", null ],
+    [ "sturmSequence", "singletoncarl_1_1rootfinder_1_1IncrementalRootFinder.html#a882a82675f0c76a41db2b4bf29a4c4ce", null ]
+];

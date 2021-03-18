@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['limit_5fmemory_332',['limit_memory',['../structbenchmax_1_1slurm_1_1SubmitfileProperties.html#af69d91c65fc3dd5e7d9e0488a9529211',1,'benchmax::slurm::SubmitfileProperties::limit_memory()'],['../structbenchmax_1_1slurm_1_1ChunkedSubmitfileProperties.html#a74e6a034b6bd1a9a976eae934018bad7',1,'benchmax::slurm::ChunkedSubmitfileProperties::limit_memory()'],['../structbenchmax_1_1settings_1_1BenchmarkSettings.html#a3e8d7c4cc76331238955748e413f98d1',1,'benchmax::settings::BenchmarkSettings::limit_memory()']]],
+  ['limit_5ftime_333',['limit_time',['../structbenchmax_1_1slurm_1_1SubmitfileProperties.html#a1426fc91578610854c0b10b706ad21f8',1,'benchmax::slurm::SubmitfileProperties::limit_time()'],['../structbenchmax_1_1slurm_1_1ChunkedSubmitfileProperties.html#a866c1ddbe9dd423492239ba24e65d6cc',1,'benchmax::slurm::ChunkedSubmitfileProperties::limit_time()'],['../structbenchmax_1_1settings_1_1BenchmarkSettings.html#a8a3a3894fe47486fa4d8b2130108914c',1,'benchmax::settings::BenchmarkSettings::limit_time()']]]
+];
